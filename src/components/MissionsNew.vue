@@ -18,7 +18,7 @@
       type="danger"
       placement="top"
       width="350px"
-      dismissable>
+      dismissFable>
         <span class="icon-info-circled alert-icon-float-left"></span>
         <p>{{error}}</p>
     </alert>
@@ -124,7 +124,7 @@
         <div class="form-group">
           <label class="col-xs-2 control-label">Doc</label>
           <div id="wysiwyg-container" class="col-xs-10">
-            <pre id="docHtml" class="hide">{{{items.doc}}}</pre>
+            <pre id="docHtml" class="hide">{{items.doc}}</pre>
             <iframe id="editorFrame" src="/static/trumbowyg/index.html"></iframe>
           </div>
         </div>

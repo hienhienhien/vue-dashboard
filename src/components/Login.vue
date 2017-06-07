@@ -22,7 +22,7 @@
       </div>
       <button class="btn btn-primary" @click="submit()">Login</button>
       <div class="form-group">
-        <a v-link="{name:'register'}">Don't have account yet? Create a new one now</a> ｜ <a v-link="{name:'index'}">Back</a>
+        <a v-link="{name:'register'}" href="register">Don't have account yet? Create a new one now</a> ｜ <a v-link="{name:'index'}" href="hello">Back</a>
       </div>
     </div>
     <alert

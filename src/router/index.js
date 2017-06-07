@@ -5,8 +5,8 @@ import Login from '@/components/Login'
 import Register from '@/components/Register'
 import Account from '@/components/Account'
 import MissionsView from '@/components/MissionsView'
-import MissionsNewView from '@/components/MissionsNewView'
-import ProfileUserView from '@/components/ProfileUserView'
+import MissionsNew from '@/components/MissionsNew'
+import ProfileUser from '@/components/ProfileUser'
 Vue.use(Router)
 
 export default new Router({
@@ -34,8 +34,8 @@ export default new Router({
     },
     {
       path: '/missions-new',
-      name: 'MissionsNewView',
-      component: MissionsNewView
+      name: 'MissionsNew',
+      component: MissionsNew
     },
     {
       path: '/profileuser',

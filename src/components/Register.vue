@@ -34,7 +34,7 @@
         >
       </div>
       <button class="btn btn-primary" @click="submit()">Register</button>
-      <div class="btn-below">Already have account? <a v-link="{name:'login'}">Login</a> ｜ <a v-link="{name:'index'}">Back</a></div>
+      <div class="btn-below">Already have account? <a v-link="{name:'login'}" href="login">Login</a> ｜ <a v-link="{name:'Hello'}" href="hello">Back</a></div>
     </div>
     <alert
       :show.sync="alertError"
