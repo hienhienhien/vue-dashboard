@@ -2,11 +2,7 @@
   <div class="appblanker-container">
     <div class="appblanker" novalidate>
       <h3>Register</h3>
-      <div class="form-title">
-        注册方式:
-        <a class="without-underline" v-link="{ name: 'signupbyphone' }"><input type="checkbox" /> 手机</a>
-        <input type="checkbox" checked /> 邮箱
-      </div>
+     
       <div id="erroralert"></div>
       <div class="form-group">
         <input

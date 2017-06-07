@@ -47,6 +47,10 @@ export default new Router({
       name: 'Account',
       component: Account
     },
+    {
+    path: '*',
+    redirect: '/'
+  }
 
     
   ]
