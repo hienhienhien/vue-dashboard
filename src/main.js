@@ -5,7 +5,17 @@ import App from './App'
 import router from './router'
 import 'font-awesome/css/font-awesome.css'
 import VueLazyload from 'vue-lazyload'
+import VueMaterial from 'vue-material'
+import 'vue-material/dist/vue-material.css'
+import 'material-icons/css/material-icons.css'
 
+
+//documentation 
+// import Documentation from './Documentation.vue'
+Vue.use(VueMaterial)
+Vue.material.registerTheme('default', {
+  primary: 'blue'
+})
 Vue.config.productionTip = false
 Vue.config.debug = true
 // Vue.use(VueLazyload, {

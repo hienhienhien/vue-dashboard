@@ -7,6 +7,7 @@ import Account from '@/components/Account'
 import MissionsView from '@/components/MissionsView'
 import MissionsNew from '@/components/MissionsNew'
 import ProfileUser from '@/components/ProfileUser'
+import Documentation from '@/components/Documentation'
 Vue.use(Router)
 
 export default new Router({
@@ -51,6 +52,11 @@ export default new Router({
       path: '/account',
       name: 'Account',
       component: Account
+    },
+    {
+      path: '/documentation',
+      name: 'Documentation',
+      component: Documentation
     },
     {
     path: '*',
