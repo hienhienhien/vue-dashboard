@@ -8,6 +8,13 @@ import VueLazyload from 'vue-lazyload'
 import VueMaterial from 'vue-material'
 import 'vue-material/dist/vue-material.css'
 import 'material-icons/css/material-icons.css'
+import AnimatedVue from 'animated-vue'
+
+import ScrollView from 'vue-scrollview'
+
+Vue.use(ScrollView)
+
+Vue.use(AnimatedVue)
 
 
 //documentation 
