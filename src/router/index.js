@@ -48,6 +48,11 @@ export default new Router({
       component: Account
     },
     {
+      path: '/account',
+      name: 'Account',
+      component: Account
+    },
+    {
     path: '*',
     redirect: '/'
   }
