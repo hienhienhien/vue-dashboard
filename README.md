@@ -1,4 +1,4 @@
-# vue-dashboard
+# project
 
 > A Vue.js project
 
@@ -28,3 +28,24 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+
+## Deploy to firebase
++ Create firebase project
++ enable google auth sign in
++ entry env vars
++ `# create settings.js
+cp settings.js.org settings.js
+# paste from Firebase config
+vim settings.js`
+
+## Development set up
+
+
+## Deploy to Firebase
++ firebase login
++ firebase use --add
+# select your project and then...
++ npm run deploy

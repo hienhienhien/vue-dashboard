@@ -1,0 +1,79 @@
+code project da hoc roi
+
++Plugin using
++Markdown
++CRUD
+
++https://github.com/saman/vue-moment-jalaali
+
++https://github.com/SortableJS/Vue.Draggable
++https://github.com/xiaokaike/vue-color
++https://github.com/sandi-racy/vue-awesomplete
+
+
+
++ feather:
++https://github.com/delay/feathers-vue-blog-admin-demo
++
+
+
+
+
+
+Vue router :
+
++https://github.com/vuejs/vue-router/tree/dev/examples
++
+
+
+
+
+vue - socket.io project:
++https://github.com/metinseylan/vue-socket.io
+
+
++slu
+https://github.com/zllovesuki/slugsurvival/tree/master/src
+
+
+
++Them voi CRUD:
++https://github.com/monterail/vue-multiselect
++https://github.com/sandi-racy/vue-awesomplete
++
+
+
+
+
+Note others:
+Memo van chua chay
+CRUD product van chua fix bugs
+
+
+
+
+
+
+
+Tong cong cac big project trong project Vue dashboad nay
+
+
+
+translate api :
+trnsl.1.1.20170703T202817Z.a743cb4a3942a3bd.568444bfae51a409dfeb954df15c75b2c43f54d6
+
+
+
+project with event
++https://www.youtube.com/watch?v=DBADrF0C2ls
+
+
+
+
+
+Plugin nen dung khi contribute cho cac project khac:
++https://github.com/sandi-racy/vue-awesomplete
++https://github.com/dzwillia/vue-grid/
+
+http://vuejsexamples.com/material-todo-list-with-vue/
++up
