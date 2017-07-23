@@ -1,51 +1,22 @@
-# project
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Vue Dashboard project
+A dashboard built with Vue integrate with plugins and widgets
 
 
+## Tech used
++ VueJS & Vuex
++ NodeJS
++ Firebase
++ RestfulAPI
 
 
-## Deploy to firebase
-+ Create firebase project
-+ enable google auth sign in
-+ entry env vars
-+ `# create settings.js
-cp settings.js.org settings.js
-# paste from Firebase config
-vim settings.js`
+## Demos
+<img src="./demos/1.png">
+<img src="./demos/2.png">
+<img src="./demos/3.png">
+<img src="./demos/4.png">
+<img src="./demos/5.png">
+<img src="./demos/6.png">
+<img src="./demos/7.png">
+<img src="./demos/8.png">
+<img src="./demos/9.png">
 
-## Development set up
-
-
-## Deploy to Firebase
-+ firebase login
-+ firebase use --add
-# select your project and then...
-+ npm run deploy
