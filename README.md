@@ -18,5 +18,5 @@ A dashboard built with Vue integrate with plugins and widgets
 <img src="./demos/6.png">
 <img src="./demos/7.png">
 <img src="./demos/8.png">
-<img src="./demos/9.png">
+
 
